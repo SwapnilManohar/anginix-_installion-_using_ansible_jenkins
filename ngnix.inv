@@ -1,2 +1,2 @@
 [web]
-54.67.118.208 ansible_user=ec2-user ansible_connection=ssh
+172.31.4.67 ansible_user=ubuntu ansible_connection=ssh
